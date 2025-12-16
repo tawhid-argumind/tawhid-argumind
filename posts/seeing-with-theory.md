@@ -1,4 +1,4 @@
-# Seeing with Theory, Thinking with Care
+# Seeing with Theory, Thinking with Data
 
 *A short essay arguing that research never begins with “just data.” Theory shapes what we notice, what counts as evidence, and which questions become visible; then data pushes back, forcing theory to revise and mature.*
 
