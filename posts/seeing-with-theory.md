@@ -5,4 +5,4 @@
 ---
 
 **Originally published on Substack:**  
-https://tawhidhasan.substack.com/p/seeing-with-theory-thinking-with
+[Read the full essay on Substack →](https://tawhidhasan.substack.com/p/seeing-with-theory-thinking-with)
